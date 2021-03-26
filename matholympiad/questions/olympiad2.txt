@@ -1,0 +1,21 @@
+1. Problem:
+A girl bought a dog for $10, sold it for $15, bought it back for $20,
+and finally sold it for $25. Did the girl make or lose money,
+and how much did she make or lose?
+
+2. Problem:
+I have 30 coins consisting of nickels and quarters. The total value of the coins is $4.10.
+How many of each kind do I have?
+
+3. Problem:
+Rectangular cards, 2 inches by 3 inches, are cut from a rectangular sheet 2 feet by
+3 feet. What is the greatest number of cards that can be cut from the sheet?
+
+4. Problem:
+In three bowling games, Alice scores 139, 143, and 144. What score
+will Alice need in a fourth game in order to have an average score
+of 145 for all four games?
+
+5. Problem:
+A book has 500 pages numbered 1, 2, 3, and so on. How many times does
+the digit 1 appear in the page numbers?

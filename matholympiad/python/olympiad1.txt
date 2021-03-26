@@ -1,0 +1,2 @@
+3. Problem:
+Find the sum of the counting numbers from 1 to 1000000 inclusive.

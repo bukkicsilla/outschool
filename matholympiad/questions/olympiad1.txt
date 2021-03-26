@@ -1,23 +1,22 @@
 Olympiad 1
 
 1. Problem:
-Suppose today is Tuesday. What day of the week will it be 100 days from now?
+Suppose today is Tuesday. What day of the week will it be 30 days from now?
 
 2. Problem:
-I have four 3¢-stamps and three 5¢-stamps. Using one or more of these stamps,
+I have three 3¢-stamps and two 5¢-stamps. Using one or more of these stamps,
 how many different amounts of postage can I make?
 
 3. Problem:
-Find the sum of the counting numbers from 1 to 25 inclusive. In order words,
-if S = 1 + 2 + 3 + ... + 24 + 25, find the value of S.
+Find the sum of the counting numbers from 1 to 15 inclusive. In order words,
+if S = 1 + 2 + 3 + ... + 24 + 15, find the value of S.
 
 4. Problem:
 In a stationary store, pencils have one price and pens have another price.
-Two pencils and three pens cost 78¢. But three pencils and two pens cost 72¢.
-How much does one pencil cost?
+One pencil and two pens cost 26¢. But two pencils and one pen cost 28¢.
+How much does one pen cost?
 
 5. Problem:
-A work crew of 3 people requires 3 weeks and 2 days to do a certain job. How long
-would it take a work crew of 4 people to do the same job if each person of
+A work crew of 2 people requires 10 days to do a certain job. How long
+would it take a work crew of 5 people to do the same job if each person of
 both crews works at the same rate as each of the others?
-Note: each week contains six work days.
