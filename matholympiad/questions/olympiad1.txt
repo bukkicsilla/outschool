@@ -9,7 +9,7 @@ how many different amounts of postage can I make?
 
 3. Problem:
 Find the sum of the counting numbers from 1 to 15 inclusive. In order words,
-if S = 1 + 2 + 3 + ... + 24 + 15, find the value of S.
+if S = 1 + 2 + 3 + ... + 14 + 15, find the value of S.
 
 4. Problem:
 In a stationary store, pencils have one price and pens have another price.
