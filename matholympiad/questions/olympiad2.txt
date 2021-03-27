@@ -18,4 +18,4 @@ of 145 for all four games?
 
 5. Problem:
 A book has 500 pages numbered 1, 2, 3, and so on. How many times does
-the digit 1 appear in the page numbers?
+the digit 1 appear in the page numbers??
