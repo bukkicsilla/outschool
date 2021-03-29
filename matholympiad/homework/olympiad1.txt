@@ -5,4 +5,5 @@ Add up the number from 51 to 100.
 2. Problem:
 
 I have 4 dimes and 3 quarters. Using one or more of these coins,
-how many different amounts can I have?
+how many different amounts can I have? If you use at least one dime
+and at least one quarter, how many different amounts are possible?

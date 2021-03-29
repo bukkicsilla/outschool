@@ -1,0 +1,23 @@
+Olympiad 2
+
+1. Problem:
+A boy bought a cat for $5, sold it for $10, bought it back for $15,
+and finally sold it for $20. Did the boy make or lose money,
+and how much did he make or lose?
+
+2. Problem:
+I have 20 coins consisting of dimes and quarters. The total value of the coins is $3.80.
+How many of each kind do I have?
+
+3. Problem:
+Rectangular cards, 2 inches by 2 inches, are cut from a rectangular sheet 2 feet by
+2 feet. What is the greatest number of cards that can be cut from the sheet?
+
+4. Problem:
+In three bowling games, Evelyn scores 146, 149, and 157. What score
+will Evelyn need in a fourth game in order to have an average score
+of 150 for all four games?
+
+5. Problem:
+A book has 99 pages numbered 1, 2, 3, and so on. How many times does
+the digit 1 appear in the page numbers??
